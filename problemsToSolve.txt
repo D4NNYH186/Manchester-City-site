@@ -1,0 +1,10 @@
+next steps:
+
+create calcTotal method for cart
+every time user goes to basket
+  - send request to new route
+  - return basket items and totalprice as object
+  - on frontend create components using basket value
+  - display to users
+
+on add to basket page, on button click send request to add-to-basket/type/price
